@@ -1,9 +1,9 @@
 # Hey, I'm Andrés Vaninetti 👋  
-### QA Engineer | Testing Automation & Strategy | Software Quality Expert
+### QA Architect | Testing Strategy & Quality Engineering | Full-Stack Product Builder
 
-I engineer quality into every stage of software delivery. As a **QA Engineer**, I focus on **defect prevention**, **comprehensive test coverage**, and **continuous improvement** of product reliability — ensuring teams ship fast without sacrificing quality.
+I architect comprehensive quality systems and strategies that prevent defects at every stage of software delivery. As a **QA Architect**, I design testing frameworks, quality gates, and reliability standards that enable teams to ship fast **and** safe — balancing velocity with confidence.
 
-Beyond my core QA role, I'm the **Founder & Creator of TotalMaster Swim** — a production platform I built from scratch that now serves **220+ real users** with a **4-member team**. This represents my full-stack ownership: product vision, engineering, quality strategy, and team leadership.
+Beyond my core QA architecture expertise, I'm the **Founder, Software Architect & Full-Stack Developer behind TotalMaster Swim** — a production platform I designed, built, and launched entirely solo, now scaled to a **4-member team**. This represents my complete ownership: system architecture, full-stack development, quality strategy, product vision, and team leadership.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andres-vaninetti/">
@@ -16,48 +16,55 @@ Beyond my core QA role, I'm the **Founder & Creator of TotalMaster Swim** — a 
 
 ---
 
-## 🎯 QA Engineer Expertise
+## 🏛️ QA Architecture & Quality Engineering
 
-### Testing Approach
+### Strategic Quality Design
+- **Quality System Architecture** — Designing end-to-end testing frameworks, automation pipelines, and quality gates  
+- **Test Strategy & Planning** — Risk-based testing approaches, coverage architecture, and release readiness frameworks  
+- **Automation Framework Design** — Building scalable, maintainable test infrastructure for teams  
+- **Quality Metrics & Governance** — Defect analytics, quality scorecards, and data-driven decision making  
+- **CI/CD Integration** — Implementing automated quality gates and continuous testing practices
+
+### Core Architectural Focus
+- 🏗️ **Quality by Design** — Preventing defects through strategic architecture and early testing  
+- ⚡ **Velocity + Reliability** — Designing systems that scale testing without slowing delivery  
+- 📐 **Scalable Testing Systems** — Frameworks that grow with team and product complexity  
+- 📊 **Quality Intelligence** — Metrics-driven insights for risk prioritization and process optimization  
+- 🤝 **Cross-Functional Quality Culture** — Embedding quality thinking into Dev, Product, and Ops
+
+### Hands-On Expertise
 - **Manual Testing** — Exploratory, regression, sanity, and user acceptance testing  
 - **Test Automation** — End-to-end, API, and integration test frameworks  
-- **Test Strategy & Planning** — Risk assessment, coverage mapping, and release readiness  
-- **Quality Metrics** — Defect tracking, test coverage analysis, and trend reporting  
-- **Continuous Quality** — CI/CD integration, automated testing pipelines, and quality gates
-
-### Core Focus Areas
-- 🛡️ **Defect Prevention** — Early bug detection through strategic test planning  
-- ⚡ **Speed + Reliability** — Balancing fast iterations with quality guardrails  
-- 🔄 **Process Improvement** — Optimizing testing workflows and team collaboration  
-- 📊 **Data-Driven QA** — Metrics, trend analysis, and risk-based prioritization  
-- 🤝 **Cross-Functional Collaboration** — Working closely with Dev, Product, and stakeholders
+- **Performance & Reliability** — Load testing, monitoring, and incident prevention
 
 ---
 
-## 🏆 Founder & Creator: TotalMaster Swim
+## 🚀 Founder, Software Architect & Full-Stack Developer: TotalMaster Swim
 
 <p align="center">
   <img src="./assets/totalmaster-wordmark.png" alt="TotalMaster Swim logo" width="420" />
 </p>
 
-**TotalMaster Swim** is a live platform supporting swim training and coaching workflows — built entirely from my vision and now led by a **4-member team I created**.
+**TotalMaster Swim** is a production platform supporting swim training and coaching workflows — **architected, developed, and launched entirely by me**, now scaled to a **4-member team**.
 
 ### The Journey
-- 🚀 **Built from Scratch** — Conceived, designed, and launched the MVP solo  
-- 👥 **Scaled to a Team** — Hired and mentored 3 additional team members  
-- 📈 **220+ Organic Users** — Real coaches and swimmers trusting the platform  
-- ✅ **In Production & Growing** — Live platform with continuous user feedback loops  
-- 🎯 **Full Ownership** — Product strategy, engineering, quality, hiring, and team leadership
+- 🏗️ **System Architecture** — Designed the entire platform architecture from first principles  
+- 💻 **Full-Stack Development** — Built complete product solo (frontend, backend, infrastructure, database)  
+- 🚀 **Production Launch** — Took product from concept to production with zero external technical help  
+- 👥 **Team Building** — Hired and mentored 3 team members; now leading as Founder  
+- 📈 **220+ Organic Users** �� Real coaches and swimmers trusting the platform  
+- ✅ **Continuous Scale** — Live product with active feedback loops and evolution
 
-### My Role as Founder
+### My Role as Founder & Architect
+- **System Architecture** — Designed scalable, reliable infrastructure and application architecture  
+- **Full-Stack Engineering** — End-to-end development across frontend, backend, and DevOps  
+- **Quality & Reliability** — Built quality into architecture; implemented monitoring, testing, and incident prevention  
 - **Product Vision & Strategy** — Market discovery, user research, roadmap prioritization  
-- **Engineering & Architecture** — Full-stack development decisions and code quality standards  
-- **Quality & Reliability** — Building with enterprise-grade testing and monitoring practices  
-- **Team Building** — Recruiting, hiring, and mentoring a distributed team  
-- **Business & Operations** — User acquisition, metrics, financial sustainability  
+- **Team Leadership** — Recruiting, hiring, onboarding, and mentoring the engineering team  
+- **Business & Operations** — User acquisition, metrics, sustainability, and strategic direction
 
-### Why This Matters
-TotalMaster demonstrates my ability to **execute end-to-end ownership** — not just as an individual contributor, but as someone who can **build, lead, and scale a real product with a real team**. It's where I apply QA best practices, product thinking, and team leadership simultaneously.
+### Why This Demonstrates My Capability
+TotalMaster is proof of **complete technical ownership** — not just executing tasks, but **architecting systems**, **building full-stack products**, and **leading teams to scale**. It shows I can move from **quality strategy to hands-on development to architectural decisions to team leadership** across a real, production system.
 
 <p align="center">
   <a href="https://www.linkedin.com/company/totalmaster-swim/">
@@ -67,53 +74,53 @@ TotalMaster demonstrates my ability to **execute end-to-end ownership** — not 
 
 ---
 
-## 🚀 Quick Snapshot
+## 🎯 Quick Snapshot
 
-- 🧪 **QA Engineer** — Manual + automation testing, quality strategy, and continuous improvement  
-- 👨‍💼 **Founder & Product Leader** — Built TotalMaster from scratch and scaled it to a 4-person team  
-- 🏗️ **Full-Stack Ownership** — Product vision, engineering, quality, and team leadership  
-- 📈 **Data-Driven** — Metrics-based decision making on quality, product, and business  
-- 🌍 **Remote Ready** — Experienced leading distributed teams and collaborating globally  
-- 🎯 **Product-Minded QA** — Quality as a business lever and competitive advantage
+- 🏛️ **QA Architect** — Design quality systems, testing frameworks, and reliability strategies  
+- 💻 **Full-Stack Software Architect** — Design and build production systems end-to-end  
+- 👨‍💼 **Founder & Technical Leader** — Built TotalMaster from architecture to team leadership  
+- 🔄 **Complete Ownership** — From system design through development through quality to team scaling  
+- 📈 **Data-Driven** — Metrics-based decisions on quality, architecture, product, and business  
+- 🌍 **Remote & Distributed** — Leading teams and collaborating across geographies  
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack & Architectural Expertise
 
-**Testing & Automation**  
-`Jest` `Cypress` `Selenium` `Postman` `REST APIs Testing` `Test Planning & Documentation`
+**Quality Architecture & Testing**  
+`Testing Framework Design` `Jest` `Cypress` `API Testing` `CI/CD Pipeline Architecture` `Quality Metrics & Analytics`
 
-**Frontend**  
-`JavaScript` `TypeScript` `React` `Next.js` `HTML` `CSS` `Tailwind`
+**System Architecture**  
+`Microservices Concepts` `API Design` `Database Architecture` `Scalability Patterns` `Performance Optimization`
 
-**Backend & APIs**  
-`Node.js` `Express` `REST APIs` `PostgreSQL`
+**Full-Stack Development**  
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Express` `PostgreSQL` `Firebase`
 
-**Infrastructure & Monitoring**  
-`Docker` `Firebase` `Git` `GitHub` `CI/CD` `Logging & Performance Monitoring`
+**Infrastructure & DevOps**  
+`Docker` `Git` `GitHub` `CI/CD Implementation` `Monitoring & Observability` `Cloud Infrastructure`
 
-**Workflow & Methodology**  
-`Agile` `Test-Driven Development (TDD)` `Continuous Integration` `Team Leadership`
+**Workflow & Leadership**  
+`Agile Architecture` `Test-Driven Development (TDD)` `System Design` `Team Leadership` `Product Strategy`
 
 ---
 
 ## 📂 What You'll Find in My Repositories
 
-- **Production-Grade Quality Practices** — Automated test suites, performance monitoring, and reliability standards  
-- **Test Strategy & Documentation** — Well-planned testing approaches for real products  
-- **Bug Prevention & Regression Testing** — Comprehensive coverage for features and edge cases  
-- **QA + Engineering Collaboration** — Code written with testability and quality-first mindset  
-- **TotalMaster Codebase** — Full-stack product code reflecting founder-level ownership and quality standards
+- **Architectural Decisions** — System design patterns, scaling strategies, and reliability practices  
+- **Quality Infrastructure** — Testing frameworks, automation pipelines, and monitoring  
+- **Production-Grade Code** — Full-stack implementation reflecting architectural principles  
+- **TotalMaster Codebase** — Complete product demonstrating system architecture + full-stack execution  
+- **Test Strategy & Documentation** — Architectural approach to quality at scale
 
 ---
 
 ## 💼 I'm Looking For
 
-- **QA Engineer / Test Automation Engineer** roles  
-- **QA Lead / Quality Strategist** positions  
-- **Product Engineer** roles with strong quality focus  
-- **Technical Leadership** opportunities (Head of QA, Tech Lead)  
-- Teams where **quality is a first-class citizen**, ownership is valued, and founders/leaders are welcome  
+- **QA Architect / Quality Engineering Lead** roles  
+- **Technical Architect** positions (with quality focus)  
+- **Founder-friendly** technical leadership opportunities  
+- **Software Architect** roles with product ownership  
+- Teams where **quality architecture is strategic**, technical leadership matters, and founder-operators are valued
 
 ---
 
@@ -123,7 +130,7 @@ TotalMaster demonstrates my ability to **execute end-to-end ownership** — not 
 - 🏢 **TotalMaster Project:** [TotalMaster Swim](https://www.linkedin.com/company/totalmaster-swim/)  
 - 📫 **Email:** andrelovaninetti@gmail.com
 
-If you're building a team that needs someone who combines **strategic QA thinking + hands-on testing + product ownership + team leadership**, let's talk.
+If you're building a team that needs someone who architects quality systems, designs production software, **and** scales teams to deliver reliable products fast, let's talk.
 
 ---
 
